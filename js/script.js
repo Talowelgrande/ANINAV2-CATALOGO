@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Paneles y Valdosas MirroFlex",
             category: "Revestimiento 3D",
             images: [
-                "imagenes/mirroflex2.jpg",
+                "imagenes/mirroflex2.JPG",
                 "imagenes/mirroflex3.jpg",
                 "imagenes/mirroflex4.jpg",
                 "imagenes/mirroflex5.jpg",
