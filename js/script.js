@@ -133,8 +133,8 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Láminas Autoadhesivas ASLAN",
             category: "Superficies Interactivas",
             images: [
-                "imagenes/aslan1.jpg",
-                "imagenes/aslan2.jpg",
+                "imagenes/aslan1.JPG",
+                "imagenes/aslan2.JPG",
                 "imagenes/aslan3.jpg",
                 "imagenes/aslan5.jpg"
             ],
