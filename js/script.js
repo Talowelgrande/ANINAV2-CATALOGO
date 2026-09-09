@@ -72,7 +72,12 @@ document.addEventListener("DOMContentLoaded", () => {
                 "imagenes/belbien3.jpg",
                 "imagenes/belbien2.jpg",
                 "imagenes/belbien4.jpg",
-                "imagenes/belbien5.jpg"
+                "imagenes/belbien5.jpg",
+                "imagenes/belbien6.jpg",
+                "imagenes/belbien7.jpg",
+                "imagenes/belbien8.jpg",
+                "imagenes/belbien9.jpg"
+                
             ],
             description: "Láminas vinílicas arquitectónicas de alta precisión, reconocidas por su sustentabilidad, fácil mantenimiento y capacidad para renovar espacios sin obra pesada.",
             specs: ["Más de 680 acabados.", "Instalación en superficies curvas.", "Uso interior y exterior.", "Imitación madera, piedra y metal."]
